@@ -1,0 +1,11 @@
+valkyrie: Valkyrie (A GUI for Valgrind)
+valkyrie:
+valkyrie: Valkyrie is a Qt4-based GUI for the Valgrind 3.6.x series, that
+valkyrie: works for the Memcheck and Helgrind tools. It also has an XML
+valkyrie: merging tool for Memcheck outputs (vk_logmerge).
+valkyrie: This version of Valkyrie does not support any version of Valgrind
+valkyrie: prior to 3.6.
+valkyrie:
+valkyrie:
+valkyrie:
+valkyrie: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
